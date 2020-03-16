@@ -1,4 +1,4 @@
-# projeto integrador SPC Brasil - Fatec SJC
+# Projeto Integrador SPC Brasil - Fatec SJC
 Projeto da parceria SPC Brasil com a FATEC de São José dos Campos. 
 
 
