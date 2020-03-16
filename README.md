@@ -16,7 +16,7 @@ Analise a qualidade dos dados recebidos;
 
 Analise as movimentações do Cadastro Positivo;
  
-Assegurar de forma ágil e com segurança o compartilhamento e integração das informções;
+Assegurar de forma ágil e com segurança o compartilhamento e integração das informações;
 
 Aplicar as métricas dos indicadores de qualidade dos dados e indicadores de négocio nos dados selecionados;
 
