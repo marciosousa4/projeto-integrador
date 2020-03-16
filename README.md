@@ -1,8 +1,8 @@
-# projeto-integrador
+# projeto integrador SPC Brasil - Fatec SJC
 Projeto da parceria SPC Brasil com a FATEC de São José dos Campos. 
 
 
-# LISTA DE REQUISITOS FUNCIONAIS 
+# Lista de Requisitos Funcionais 
 
 Receber os dados das empresas conveniadas;
 
