@@ -33,4 +33,4 @@ o conjunto de indicadores e suas métricas.
 ![](/imagens/requisitos.jpg)
 
 # Plano de Trabalho
-![](/imagens/plano.jpg)
+
