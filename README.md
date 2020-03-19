@@ -2,10 +2,10 @@
 Projeto da parceria SPC Brasil com a FATEC de São José dos Campos. 
 
 # Integrantes 
-* Marcio Geraldo de Sousa
-* Cristiane de Fátima Rafael
-* Fernanda Corrente Marques 
-* Jodan Galas 
+* Marcio Geraldo de Sousa (Product Owner)
+* Cristiane de Fátima Rafael (Development Team)
+* Fernanda Corrente Marques (Development Team)
+* Jodan Galas (Development Team)
 
 # Objetivos Específicos 
 
@@ -28,6 +28,9 @@ Projeto da parceria SPC Brasil com a FATEC de São José dos Campos.
 * Fazer um Deshboard, um painel visual, que apresente de maneira centralizada e de fácil manipulação,
 o conjunto de indicadores e suas métricas.
 
+
    # Requisitos
 ![](/imagens/requisitos.jpg)
 
+# Plano de Trabalho
+![](/imagens/plano.jpg)
