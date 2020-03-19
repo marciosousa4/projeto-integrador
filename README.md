@@ -28,3 +28,6 @@ Projeto da parceria SPC Brasil com a FATEC de São José dos Campos.
 * Fazer um Deshboard, um painel visual, que apresente de maneira centralizada e de fácil manipulação,
 o conjunto de indicadores e suas métricas.
 
+   # Requisitos
+![](/imagens/requisitos.jpg)
+
