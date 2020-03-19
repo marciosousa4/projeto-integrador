@@ -15,11 +15,11 @@ Projeto da parceria SPC Brasil com a FATEC de São José dos Campos.
 
 * **CRIAR UMA MODELAGEM DE TRATAMENTO DOS DADOS QUE:**
 
-* Atenda a legislação do Cadastro Positivo;
+    * Atenda a legislação do Cadastro Positivo;
 
-* Analise a qualidade dos dados recebidos;
+    * Analise a qualidade dos dados recebidos;
 
-* Analise as movimentações do Cadastro Positivo;
+    * Analise as movimentações do Cadastro Positivo;
  
 * Assegurar de forma ágil e com segurança o compartilhamento e integração das informações;
 
