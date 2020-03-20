@@ -1,19 +1,25 @@
-Requisitos necessários para rodar o arquivo no seu computador:
+# O que o algoritmo pode fazer
+* Ele calcula o indicador de completude dos dados de cada tabelas, ou seja, se todas as células que deveriam estar preenchidas, estão.
+* Calcula o indicador de consistência, que é o cruzamento entre os dados das tabelas de movimentação, pagamento e operação.
+* Calcula o indicador de confiabilidade, que mostra se os valores estão em formato correto ou se existem valores truncados.
 
--Coloque as tabelas “.xlsx” e o arquivo “.ipynb” todos na mesma pasta.
 
--Instale Python 3.6 ou superior, selecionando a opção PATH na instalação.
+# Requisitos necessários para rodar o arquivo no seu computador:
 
-Após a instalação do Python abrir o prompt de comando (CMD) e digitar:
+* Coloque as tabelas “.xlsx” e o arquivo “.ipynb” todos na mesma pasta.
 
--pip install jupyter notebook
+* Instale Python 3.6 ou superior, selecionando a opção PATH na instalação.
 
-Após isso instale a biblioteca necessária:
+# Após a instalação do Python abrir o prompt de comando (CMD) e digitar:
 
- -pip install pandas
+* pip install jupyter notebook
+
+# Após isso instale a biblioteca necessária:
+
+* pip install pandas
 
 Após a instalação, para abrir o Jupyter Notebook, abra o prompt de comando (CMD) e digite:
 
--start jupyter notebook
+* start jupyter notebook
 
 Procure pela pasta onde salvou os arquivos, selecione o arquivo com extensão “.ipynb” e clique em  “Run”.
