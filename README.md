@@ -3,9 +3,11 @@ Projeto da parceria SPC Brasil com a FATEC de São José dos Campos.
 
 # Disciplinas
 
-Sistemas de Informação: Professor: José Walmir Gonçalves Duque.
-Engenharia de Software: Professor: Giuliano Bertoti.
-Linguagem de Programação: Professora: Juliana Forin Pasquini Martinez.
+* Sistemas de Informação: Professor: José Walmir Gonçalves Duque.
+
+* Engenharia de Software: Professor: Giuliano Bertoti.
+
+* Linguagem de Programação: Professora: Juliana Forin Pasquini Martinez.
 
 # Integrantes 
 * Marcio Geraldo de Sousa (Product Owner)
