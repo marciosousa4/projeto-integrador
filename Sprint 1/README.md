@@ -1,3 +1,4 @@
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%201/sprint%20%201.jpg?raw=true)
 # O que o algoritmo pode fazer
 * Ele calcula o indicador de completude dos dados de cada tabelas, ou seja, se todas as células que deveriam estar preenchidas, estão.
 * Calcula o indicador de consistência, que é o cruzamento entre os dados das tabelas de movimentação, pagamento e operação.
