@@ -7,6 +7,10 @@ Para se ter dimensão da complexidade, o escopo deste projeto contempla desde o 
 
 # *User Story Cards*
 
+O grau de complexidade de cada Sprint foi feita  em uma Planning Poker, usando como parâretro a Sequência de Fibonacci para buscar uma estimativa via consenso da equipe. 
+
+Leia mais em: https://www.voitto.com.br/blog/artigo/planning-poker
+
 ![](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/ec9931dee079aee4f5259eae6ee1f26e4785cf71/user%20story%20cards.jpeg)
 
 
