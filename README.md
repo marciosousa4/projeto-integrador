@@ -11,9 +11,9 @@ Projeto da parceria SPC Brasil com a FATEC de São José dos Campos.
 
 # Integrantes 
 * Marcio Geraldo de Sousa (Product Owner)
+* Fernanda Corrente Marques (Scrum master)
 * Cristiane de Fátima Rafael (Development Team)
-* Fernanda Corrente Marques (Development Team)
-* Jodan Galas (Development Team)
+* Jodan Lima Galas (Development Team)
 
 # Objetivos Específicos 
 
