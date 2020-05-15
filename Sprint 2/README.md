@@ -65,7 +65,7 @@ Os gráficos se referem sequencialmente a:
 ![Gráfico de duplicidade da Tabela ](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/c32a42a93512432fcf48e13a823cffe0d8b947d6/Duplicidade%20MDL.jpeg)
 
 # Visualização dos códigos
-Os códigos podem ser visualizados em execução nos vídeos que seguem após as instruções de navegação. Essas intruções são para executar os códigos no computador.  
+Os códigos podem ser visualizados em execução nos vídeos que seguem após as instruções de navegação. Essas instruções são para executar os códigos no computador.  
 
 * **Instruções e Navegações**
 * Coloque as tabelas “.xlsx” e o arquivo “.ipynb” todos na mesma pasta.
