@@ -43,7 +43,7 @@ Nós nâo temos acesso à nenhuma dessas tabelas, da origem, portanto não é po
 
 # Representações Gráficas
 
-Os gráficos passarão por processos de refinamento no desenvolvimento do projeto, e com a integração na interface serão ferramentas decisivas no critério de devolução dos dados para o agente financeiro ou continuaidade na aplicação dos indicadores de negócio. 
+Os gráficos passarão por processos de refinamento no desenvolvimento do projeto, e com a integração na interface serão ferramentas decisivas no critério de devolução dos dados para o agente financeiro ou continuidade na aplicação dos indicadores de negócio. 
 Os gráficos se referem sequencialmente a:
 * Gráfico de completude da tabela Fontes
 * Gráfico de completude da tabela Movimentação
