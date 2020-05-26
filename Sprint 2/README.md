@@ -1,3 +1,4 @@
+![Sprint2](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%202/sprint%202.jpg)
 # Prioridade da Sprint 2
 
 Essa Sprint está classificada como uma obrigação para o time. Ela representa uma necessidade não-negociável para o projeto, pois para fazer a análise e apontar os indicativos de qualidade e negócio dos dados, é preciso que todas as informações recebidas estejam corretas. 
