@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/15c3ff39863c54941ffc63a12ee0b54d8c56181c/imagens/Projeto%20integrador%202020.jpg)
+![](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/cc617094824263c006bc17b4a7ce2ac2313d3242/Projeto%20integrador%202020.jpg)
 
 # Product Backlog
 
