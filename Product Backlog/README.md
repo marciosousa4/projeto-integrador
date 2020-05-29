@@ -9,3 +9,22 @@ O grau de complexidade de cada Sprint foi feito  em uma Planning Poker, usando c
 
 
 ![](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/ec9931dee079aee4f5259eae6ee1f26e4785cf71/user%20story%20cards.jpeg)
+
+# Requisitos Globais   
+
+* Receber os dados das empresas conveniadas;
+
+* Verificar da qualidade dos dados recebidos;
+
+* Atender a legislação do Cadastro Positivo;
+
+* Analisar a qualidade dos dados recebidos;
+
+* Analisar as movimentações do Cadastro Positivo;
+ 
+* Assegurar de forma ágil e com segurança o compartilhamento e integração das informações;
+
+* Aplicar as métricas dos indicadores de qualidade dos dados e indicadores de négocio nos dados selecionados;
+
+* Fazer uma interface, que apresente de maneira centralizada e de fácil manipulação,
+o conjunto de indicadores e suas métricas.
