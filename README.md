@@ -4,7 +4,7 @@
 # Product Backlog
 
 
-[Product backlog](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog)
+[Acesso ao Product Backlog](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog)
 
 <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/71c81031765f289e50ca9f34ab6ba9d5d0db86b3/image-article-agile-basics-illustration2_0.png" width="300" height="150" />
 
@@ -12,12 +12,12 @@
 
 | Data | Links |
 | ------ | ------ |
-| 26/03/2020 |[ Sprint 1](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%201)|
-| 15/05/2020 |[Sprint 2](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%202) |
-| 29/05/2020 | [Sprint 3](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%203) |
-| 12/06/2020 |[Sprint 4](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%204) |                    
-| 26/06/2020 |[Sprint 5](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%205) |
-| 10/07/2020 |[Sprint 6](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%206) |
+|    26/03/2020    |[ Sprint 1](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%201)|
+|    15/05/2020    |[Sprint 2](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%202) |
+|    29/05/2020    | [Sprint 3](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%203) |
+|    12/06/2020    |[Sprint 4](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%204) |                    
+|    26/06/2020    |[Sprint 5](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%205) |
+|    10/07/2020    |[Sprint 6](https://github.com/marciosousa4/projeto-integrador/tree/master/Sprint%206) |
 
 
 
