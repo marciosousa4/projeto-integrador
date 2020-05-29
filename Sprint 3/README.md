@@ -1,3 +1,4 @@
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%203/sprint%203.jpg?raw=true)
 # Justificativa da Sprint 3
 Nessa Sprint continuamos o trabalho de desenvolvimento dos indicadores de qualidade dos dados. Foram trabalhadas as métricas de:
 * Conformidade
@@ -45,7 +46,7 @@ relações, datas e definições.
 
 # Confiabilidade
 Para a verificação desse parâmetro, não tinhamos a tabela que contém os registros de base dos dados. Essa tabela chegou no dia 28/05/2020 e já está sendo trabalhado para o apontamento de novos indicadores. 
-Podereos com esses novos dados, apontar índíces e padrões para que auxiliem na tomada de decisões da SPC Brasil. 
+Poderemos com esses novos dados, apontar índíces e padrões para auxiliar na tomada de decisões da SPC Brasil. 
 
 
 
