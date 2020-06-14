@@ -1,3 +1,5 @@
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Sprint4.jpg)
+
 # Objetivos
 
   - Apresentar o escopo do projeto e a nova documentação com as alterações solicitadas pelo cliente
@@ -12,8 +14,18 @@
 Para que o consumidor faça a solicitação do cadastro emergencial positivos, sugerimos criar a opção na página da SPC Brasil contendo essa solicitação. Com a criação desse canal de relacionamento a SPC Brasil, já pode receber as solicitações dos consumidores enquanto aguarda o desenvolvimento do produto final.
 E para os que não tem acesso aos canais web fornecer os canais de teleatediemento e os postos de atedimento do consumidor.
 
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Tela%201.jpg)
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Tela%20Faleconosco.jpg)
+
 # Tratamento de dados.
 
 Elaboramos um algoritmo para verificar na tabela de pagamentos os consumidores que solicitaram a exclusão do cadastro positivo e retirá-los da base de dados que vai para o cadastro emergencial.
 Também desenvolvemos um código que verifica na tabela de operações e cadastro de pessoa física, se os números de CPF estão dentro do padrão de 11 números. Se sim eles irão compor a base da dados do auxílio emergencial positivo.
 Os algoritmos desenvolvidos são capazes de ler as extensões xlsx e csv da base de dados enviadas pelo SPC e fazer a verificação nas tabelas específicas onde se encontram os dados
+
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/an%C3%A1lise%20tabelas.gif)
+
+
+# Interface do Auxílio Emergencial Positivo
+
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Interface.gif)
