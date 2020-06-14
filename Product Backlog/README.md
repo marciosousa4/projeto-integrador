@@ -1,6 +1,7 @@
 # Product Backlog com novo escopo
 Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/06/2020, fizemos algumas mudanças no projeto para adaptar a real necessidade do cliente. Foi pedido para que o time focasse em apresentar soluções de negócio e um valor real para o produto, e também e que o escopo do projeto estive claro com referência ao que vamos entregar. Diante dessas solicitações, segue o novo escopo, com as alterações e adaptações feitas pelo time. 
-# Projeto: Auxílio Emergencial Positivo Dimensões do projeto
+# Projeto: Auxílio Emergencial Positivo 
+# Dimensões do projeto
  
  <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/376d71b42da02278e03b7af2472d9488a8f6bcf2/Logo%20auxilio%20emergencial.jpg" width="230" height="130" />
 
