@@ -41,7 +41,4 @@
 > As informações devem ser apresentadas de forma organizada, amigável e intuitiva.
 
   
-# Mapa Estratégico
-![](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/039888168699de4e8eb696c4f3117a27560c02cb/Projeto%20integrador%202020.jpg)
-
 
