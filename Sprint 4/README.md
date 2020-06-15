@@ -7,6 +7,20 @@
   - Apresentaro algoritmo desenvolvido para verificar os clientes que solicitaram a exclusão dos seus dados do Cadastroal Positivo, que constam na tabela de pagamentos.
   -  O algoritmo desenvolvido para verificar a consistência do padrão de números do CPF dos consumidores.
   -  A interface que será utilizada pelo Assistente de Atendimento da SPC Brasil para dar suporte a solicitação do consum
+  # Requisitos Sprint 4
+
+1.	Como consumidor preciso ser incluso no cadastro emergencial positivo, pois estou em uma situação emergencial que está comprometendo o equilíbrio entre receitas e despesas em minha vida pessoal.
+*	Disponibilizar Canais de contato para que seja feita essa solicitação (email, telefone ou presencial). Incluir o item no campo de atendimentos da página fale conosco da SPC Brasil. 
+*	Informar para o consumidor quais são as reais situações que pode ser requerido o auxílio. Colocar na página da SPC Brasil o item explicativo do projeto. 
+*	Ter uma interface que apresente o que é o cadastro emergencial positivo, para colocar na página da SPC Brasil. 
+
+2.	Como assistente de atendimento da SPC Brasil, quero dar suporte à solicitação do consumidor que precisa ser incluso no cadastro emergencial positivo.
+*	Ter uma aplicação para desktop, a fim de não comprometer a segurança das informações e facilitar a distribuição da ferramenta.
+*	Ter uma interface contendo a tela inicial da ferramenta que mostre a opção de consulta de CPF do cliente.
+*	Usar o framework Electron que permite o desenvolvimento de aplicações para desktop GUI com componentes criados para aplicações web.
+*	No desenvolvimento da interface, utilizar a linguagem de marcação HTML e a folha de estilo CSS, por apresentarem grande versatilidade de edição de layout e cores.
+*	Aplicar a 8 heurística de Jakob Nielsen, “estética e designer minimalista”, assim o assistente poderá verificar com rapidez agilidade e de forma desburocratizada a possibilidade de atendimento do consumidor. 
+*	Manter consistência entre as telas da aplicação com as telas padrões da SPC Brasil será essencial para que não seja necessário o entendimento de vários padrões e formas de interações diferentes para cada tela. 
   
   # Comunicação: Consumidor e SPC Brasil para solicitar o Auxílio Emergencial Positivo
     
