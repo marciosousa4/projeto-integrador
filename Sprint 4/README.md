@@ -7,7 +7,8 @@
   - Apresentaro algoritmo desenvolvido para verificar os clientes que solicitaram a exclusão dos seus dados do Cadastroal Positivo, que constam na tabela de pagamentos.
   -  O algoritmo desenvolvido para verificar a consistência do padrão de números do CPF dos consumidores.
   -  A interface que será utilizada pelo Assistente de Atendimento da SPC Brasil para dar suporte a solicitação do consum
-  # Requisitos Sprint 4
+ 
+ # Requisitos Sprint 4
 
 1.	Como consumidor preciso ser incluso no cadastro emergencial positivo, pois estou em uma situação emergencial que está comprometendo o equilíbrio entre receitas e despesas em minha vida pessoal.
 *	Disponibilizar Canais de contato para que seja feita essa solicitação (email, telefone ou presencial). Incluir o item no campo de atendimentos da página fale conosco da SPC Brasil. 
@@ -41,5 +42,17 @@ Os algoritmos desenvolvidos são capazes de ler as extensões xlsx e csv da base
 
 
 # Interface do Auxílio Emergencial Positivo
+Desenvolvemos uma interface que será utilizada pelo Assistente de Atendimento da SPC Brasil. 
+
+A interface contém:
+* acesso a um passo a passo de como utilizar a ferramenta
+* Tela de consulta do CPF
+* Tela que contém as condições de recebimento do auxilio e o campo para anexar os docs comprobatórios.
+
+Ambiente 
+
+ * Usamos framework Electron que permite o desenvolvimento de aplicações para desktop GUI usando componentes criados para aplicações web.
+* Utilizamos a linguagem de marcação HTML e a folha de estilo CSS, por apresentarem grande versatilidade de edição de layout e cores.
+
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Interface.gif)
