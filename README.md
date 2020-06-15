@@ -56,9 +56,11 @@ Pandemia: Em uma pandemia, após a publicação do decreto estadual ou federal, 
 
 > Os relatórios deverão possibilitar aplicação de filtros e navegação nas visões.
 
-> Os relatórios não poderá apresentar informações pessoais, confidenciais e sigilosas.
+> Os relatórios não poderão apresentar informações pessoais, confidenciais e sigilosas.
 
 > As informações devem ser apresentadas de forma organizada, amigável e intuitiva.
+
+> O produto final deve ter valor para o negócio 
 
   
 
