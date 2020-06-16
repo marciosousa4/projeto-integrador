@@ -13,7 +13,7 @@
 1.	Como consumidor preciso ser incluso no Auxílio emergencial positivo, pois estou em uma situação emergencial que está comprometendo o equilíbrio entre receitas e despesas em minha vida pessoal.
 *	Disponibilizar Canais de contato para que seja feita essa solicitação (email, telefone ou presencial). Incluir o item no campo de atendimentos da página fale conosco da SPC Brasil. 
 *	Informar para o consumidor quais são as reais situações que pode ser requerido o auxílio. Colocar na página da SPC Brasil o item explicativo do projeto. 
-*	Ter uma interface que apresente o que é o cadastro emergencial positivo, para colocar na página da SPC Brasil. 
+*	Ter uma interface que apresente o que é o Auxílio emergencial positivo, para colocar na página da SPC Brasil. 
 
 2.	Como assistente de atendimento da SPC Brasil, quero dar suporte à solicitação do consumidor que precisa ser incluso no Auxílio emergencial positivo.
 *	Ter uma aplicação para desktop, a fim de não comprometer a segurança das informações e facilitar a distribuição da ferramenta.
