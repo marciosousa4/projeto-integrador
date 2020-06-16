@@ -2,11 +2,11 @@
 
 # Objetivos
 
-  - Apresentar o escopo do projeto e a nova documentação com as alterações solicitadas pelo cliente
-  - Sugerir o canal de comunicação entre o consumidor e a SPC Brasil para solicitação de inclusão n Auxílioo emergencial positivo.
-  - Apresentaro algoritmo desenvolvido para verificar os clientes que solicitaram a exclusão dos seus dados do Cadastroal Positivo, que constam na tabela de pagamentos.
+  - Apresentar o escopo do projeto e a nova documentação com as alterações solicitadas pelo cliente.
+  - Sugerir o canal de comunicação entre o consumidor e a SPC Brasil para solicitação de inclusão no Auxílio emergencial positivo.
+  - Apresentar o algoritmo desenvolvido para verificação dos clientes que solicitaram a exclusão dos seus dados do Cadastro Positivo e que ainda constam na tabela de pagamentos.
   -  O algoritmo desenvolvido para verificar a consistência do padrão de números do CPF dos consumidores.
-  -  A interface que será utilizada pelo Assistente de Atendimento da SPC Brasil para dar suporte a solicitação do consum
+  -  A interface que será utilizada pelo Assistente de Atendimento da SPC Brasil para dar suporte a solicitação do consumidor.
  
  # Requisitos Sprint 4
 
@@ -26,8 +26,8 @@
   # Comunicação: Consumidor e SPC Brasil para solicitar o Auxílio Emergencial Positivo
     
 
-Para que o consumidor faça a solicitação do cadastro emergencial positivos, sugerimos criar a opção na página da SPC Brasil contendo essa solicitação. Com a criação desse canal de relacionamento a SPC Brasil, já pode receber as solicitações dos consumidores enquanto aguarda o desenvolvimento do produto final.
-E para os que não tem acesso aos canais web fornecer os canais de teleatediemento e os postos de atedimento do consumidor.
+Para que o consumidor faça a solicitação do cadastro emergencial positivos, sugerimos criar a opção na página da SPC Brasil contendo essa solicitação. Com a criação desse canal de relacionamento, a SPC Brasil já pode receber as solicitações dos consumidores enquanto aguarda o desenvolvimento do produto final.
+E para os que não tem acesso aos canais web, fornecer os canais de teleatediemento e os postos de atendimento do consumidor.
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Tela%201.jpg)
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Tela%20Faleconosco.jpg)
