@@ -1,5 +1,5 @@
 # Product Backlog com novo escopo
-Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/06/2020, fizemos algumas mudanças no projeto para adaptar a real necessidade do cliente. Foi pedido para que o time focasse em apresentar soluções de negócio e um valor real para o produto, e também e que o escopo do projeto estive claro com referência ao que vamos entregar. Diante dessas solicitações, segue o novo escopo, com as alterações e adaptações feitas pelo time. 
+Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/06/2020, fizemos algumas mudanças no projeto para adaptar a real necessidade do cliente. Foi pedido para que o time focasse em apresentar soluções de negócio e um valor real para o produto, e também, que o escopo do projeto estive claro com referência ao que vamos entregar. Diante dessas solicitações, segue o novo escopo, com as alterações e adaptações feitas pelo time. 
 # Projeto: Auxílio Emergencial Positivo 
 # Dimensões do projeto
  
@@ -7,26 +7,26 @@ Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/
 
 # Objetivo
 O programa Auxílio Emergencial Positivo foi concebido a partir da constatação do compromisso que a SPC Brasil tem com a sociedade nos momentos de risco ao seu crédito positivo e pelo compromisso que a empresa tem em ser um elo de confiança para consumidores e empresa conveniadas. 
-O projeto tem como objetivo principal, desenvolver uma ferramenta de software que consiga dar suporte aos  assistentes de atendimento da SPC Brasil para verificar a viabilidade da solicitação do cliente de inclusão no auxilio emergencial positivo,  garantindo a segurança de crédito dos consumidores que estão inclusos no cadastro positivo e que estão adimplentes com suas contas nos 12 (doze) meses anteriores a solicitação.  
+O projeto tem como objetivo principal, desenvolver uma ferramenta de software que consiga dar suporte aos  assistentes de atendimento da SPC Brasil, para verificar a viabilidade da inclusão no auxilio emergencial positivo,  garantindo a segurança de crédito dos consumidores que estão inclusos no cadastro positivo e que estão adimplentes com suas contas nos 12 (doze) meses anteriores a solicitação.  
 # Justificativa
-O Programa que oferecemos nessa ferramenta de software busca romper com o paradigma de que a empresa só participa como plataforma integradora de informações e inteligência de dados, ele reafirma o compromisso com a sociedade, além de imprimir um caráter de liderança que por si só, já gera um valor, não unicamente a ela, mas também à toda sociedade e ao entorno que ela opera, capitalizando os chamados valores intangíveis. 
+O Programa que oferecemos nessa ferramenta de software, busca romper com o paradigma de que a empresa só participa como plataforma integradora de informações e inteligência de dados, ele reafirma o compromisso com a sociedade, além de imprimir um caráter de liderança que por si só, já gera um valor, não unicamente a ela, mas também à toda sociedade e ao entorno que ela opera, capitalizando os chamados valores intangíveis. 
 A ferramenta desenvolvida também ajudará os assistentes de atendimento a fornecer ao consumidor segurança em permanecer no cadastro positivo, pois garante que, nos momentos mais difíceis seu crédito positivo estará protegido pela empresa que tem a missão de “Prover soluções que atendam às necessidades de negócio e de crédito”.
 # Atores
-A ferramenta será usada pelo Assistente de atendimento da SPC para dar suporte ao consumidor quando ele precisar realizar o cadastro emergencial positivo.
+A ferramenta será usada pelo Assistente de Atendimento da SPC para dar suporte ao consumidor quando ele precisar realizar o cadastro no Auxílio Emergencial Positivo.
 # Interface
 Interface contendo a tela inicial da ferramenta 
-Interface que apresente o que é o cadastro positivo emergencial
+Interface que apresente o que é o Auxílio emergencial positivo.
 Interface que mostre a opção de consultar o CPF do consumidor 
 Interface que mostre o histórico de pagamentos do consumidor 
-Interface que apresente a opção de inclusão no cadastro positivo emergencial com as opções de situações emergenciais e de inclusão da documentação comprobatória. 
+Interface que apresente a opção de inclusão no Auxílio Emergencial positivo com as opções de situações emergenciais e de inclusão da documentação comprobatória. 
 
 # Ações
-- O consumidor envia um email para a SPC solicitando a inclusão no cadastro positivo emergencial.
+- O consumidor envia um email para a SPC solicitando a inclusão do cadastro no Auxílio emergencial positivo.
 - O assistente de atendimento recebe o email e faz a verificação do histórico de pagamentos desse consumidor. 
 - Se aprovado, o assistente de atendimento verifica se o consumidor enviou e documentação que comprovam a real necessidade da inclusão no cadastro. 
 - Se reprovado, o assistente de atendimento reponde o email, informado que não foi aprovada a solicitação. 
-- Se o consumidor foi aprovado e enviou a documentação, o assistente de atendimento faz a inclusão da documentação no cadastro do consumidor e marca a opção que gerou a necessidade e o Score do consumidor fica congelado por 60 dias.
-- Se ele foi aprovado e não enviou a documentação o assistente de atendimento faz a solicitação para o consumidor por email.
+- Se o consumidor foi aprovado e enviou a documentação, o Assistente de Atendimento faz a inclusão da documentação no cadastro do consumidor, marca a opção que gerou a necessidade e o Score do consumidor fica congelado por 60 dias.
+- Se ele foi aprovado e não enviou a documentação o Assistente de Atendimento faz a solicitação para o consumidor por email.
 
 # Dados fundamentais para o funcionamento da aplicação.
 - Dados de transações financeiras dos consumidores fornecidos pelas empresas credoras que constem os seguintes dados:
@@ -38,7 +38,7 @@ Interface que apresente a opção de inclusão no cadastro positivo emergencial 
 - Tabela de situações emergenciais para consulta dos consumidores 
 - Canal de interação entre consumidor e SPC (email, telefone ou presencial)
 Regra de negócio
-- O cadastro positivo emergencial garante que o consumidor tenha seu score congelado, ou seja, que não haja movimentação na pontuação do score, caso ele se enquadre em uma situação emergencial, por até 2 meses. 
+- O Auxílio emergencial positivo garante que o consumidor tenha seu score congelado, ou seja, que não haja movimentação na pontuação do score, caso ele se enquadre em uma situação emergencial, por até 2 meses. 
 - Situações emergenciais são: Desastres naturais, Doenças consideradas graves, pandemias ou perda de emprego sem justa causa. 
 - O consumidor só poderá fazer esse requerimento uma vez por ano
 - Se antes do prazo terminar o consumidor estiver em situação melhor e quiser informar o SPC para que seu score retorne a computação dos pagamentos, pode ser feito a qualquer momento, dentro do prazo de 2 meses. 
@@ -51,7 +51,7 @@ Regra de negócio
 - Para compor a estrutura de tratamento e análise de dados, optamos pela linguagem Python, por ter um grande acervo de bibliotecas específicas para tais funções.
 - Na integração dos arquivos python com a parte visual, foi utilizada a linguagem Javascript e o interpretador Nodejs(ambos próprios do Electron) juntamente com o módulo Python-Shell, que lê scripts em python a partir do Nodejs.
 # Qualidade
-- O consumidor se sentirá seguro ao optar pelo cadastro positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
+- O consumidor se sentirá seguro ao optar pelo Auxílio Emergencial Positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
 - Reduzirá o número de pedidos de exclusão do cadastro positivo
 - O SPC estará comprometido com o consumidor protegendo seu produto mais valiosos que é o crédito dos consumidores.
 - Cumprirá a sua missão de ser um elo de confinaça para o consumidor.
@@ -86,7 +86,7 @@ Regra de negócio
 *	Com a verificação positiva do cadastro do cliente, acrescentar uma interface que tenha um campo para marcar o motivo da requisição do auxílio.
 *	Colocar as opções com caixas de marcação para facilitar a navegação do assistente nas opções de inclusão. 
 *	Aplicar a 8 heurística de Jakob Nielsen, “estética e designer minimalista”, assim o assistente poderá verificar de forma ágil, qual a classificação do cliente e como inserir a documentação no cadastro. 
-5.	Como assistente de atendimento preciso enviar a confirmação para o cliente que seu cadastro se encontra incluso no cadastro positivo emergencial e que, por 2 meses as suas contas não serão computadas negativamente em seu cadastro, caso haja algum atraso nos pagamentos.
+5.	Como assistente de atendimento preciso enviar a confirmação para o cliente que seu cadastro se encontra incluso no Auxílio Emergencial Positivo e que, por 2 meses as suas contas não serão computadas negativamente em seu cadastro, caso haja algum atraso nos pagamentos.
 
 # Product Backlog
 
