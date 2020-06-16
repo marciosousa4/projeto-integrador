@@ -26,7 +26,7 @@
   # Comunicação: Consumidor e SPC Brasil para solicitar o Auxílio Emergencial Positivo
     
 
-Para que o consumidor faça a solicitação do Axílio emergencial positivos, sugerimos criar a opção na página da SPC Brasil contendo essa solicitação. Com a criação desse canal de relacionamento, a SPC Brasil já pode receber as solicitações dos consumidores enquanto aguarda o desenvolvimento do produto final.
+Para que o consumidor faça a solicitação do Axílio emergencial positivo, sugerimos criar a opção na página da SPC Brasil contendo essa solicitação. Com a criação desse canal de relacionamento, a SPC Brasil já pode receber as solicitações dos consumidores enquanto aguarda o desenvolvimento do produto final.
 E para os que não tem acesso aos canais web, fornecer os canais de teleatediemento e os postos de atendimento do consumidor.
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%204/Tela%201.jpg)
