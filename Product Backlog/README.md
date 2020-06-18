@@ -1,7 +1,6 @@
 # Product Backlog com novo escopo
 Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/06/2020, fizemos algumas mudanças no projeto para adaptar a real necessidade do cliente. Foi pedido para que o time focasse em apresentar soluções de negócio e um valor real para o produto, e também, que o escopo do projeto estive claro com referência ao que vamos entregar. Diante dessas solicitações, segue o novo escopo, com as alterações e adaptações feitas pelo time. 
 # Projeto: Auxílio Emergencial Positivo 
-# Dimensões do projeto
  
  <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/376d71b42da02278e03b7af2472d9488a8f6bcf2/Logo%20auxilio%20emergencial.jpg" width="230" height="130" />
 
@@ -11,6 +10,9 @@ O projeto tem como objetivo principal, desenvolver uma ferramenta de software qu
 # Justificativa
 O Programa que oferecemos nessa ferramenta de software, busca romper com o paradigma de que a empresa só participa como plataforma integradora de informações e inteligência de dados, ele reafirma o compromisso com a sociedade, além de imprimir um caráter de liderança que por si só, já gera um valor, não unicamente a ela, mas também à toda sociedade e ao entorno que ela opera, capitalizando os chamados valores intangíveis. 
 A ferramenta desenvolvida também ajudará os assistentes de atendimento a fornecer ao consumidor segurança em permanecer no cadastro positivo, pois garante que, nos momentos mais difíceis seu crédito positivo estará protegido pela empresa que tem a missão de “Prover soluções que atendam às necessidades de negócio e de crédito”.
+
+# Dimensões do projeto
+
 # Atores
 A ferramenta será usada pelo Assistente de Atendimento da SPC para dar suporte ao consumidor quando ele precisar realizar o cadastro no Auxílio Emergencial Positivo.
 # Interface
