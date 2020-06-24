@@ -13,7 +13,7 @@ Desenvolvimento de um aplicativo desktop para os Assitentes de Atendimento verif
 * Segurança para o consumidor optar pela permanência no Cadastro Positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
 * Melhorar  o relacionamento e integração da SPC Brasil com os consumidores, mantendo assim  seu pontecial competitivo no mercado.
 * Construção de uma base confiável entre a SPC Brasil e o consumidor
-* Responsablidade Social Empresaria que imprime o caráter de liderança da empresa já que gera valor, não unicamente a ela, mas também à sociedade e ao entorno em que ela opera, reunindo valores intangíveis.
+* Responsablidade Social que imprime o caráter de liderança da empresa já que gera valor, não unicamente a ela, mas também à sociedade e ao entorno em que ela opera, reunindo valores intangíveis.
 # Indíce
 * [Sobre o Auxílio Emergencial Positivo](#sobre-o-auxílio-emergencial-positivo)
 * [Como Funciona](#como-funciona)
