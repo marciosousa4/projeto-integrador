@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/cc617094824263c006bc17b4a7ce2ac2313d3242/Projeto%20integrador%202020.jpg" width="500" height="300" /> <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/376d71b42da02278e03b7af2472d9488a8f6bcf2/Logo%20auxilio%20emergencial.jpg" width="400" height="200" />
+<img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/cc617094824263c006bc17b4a7ce2ac2313d3242/Projeto%20integrador%202020.jpg" width="500" height="300" /> <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/376d71b42da02278e03b7af2472d9488a8f6bcf2/Logo%20auxilio%20emergencial.jpg" width="300" height="180" />
 
 # AUXÍLIO EMERGENCIAL POSITIVO
 
