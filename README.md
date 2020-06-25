@@ -44,10 +44,10 @@ Rescisão Sem Justa Causa: Carteira de identidade; Número do PIS/NIS; Carteira 
 
 Pandemia: Em uma pandemia, após a publicação do decreto estadual ou federal, decretando o estado emergencial, o consumidor pode apresentar documentos que comprovem a sua vulnerabilidade nesse período, desemprego, redução de salário, suspensão de contrato de trabalho, altas despesas médicas e outras situações que podem ser avaliadas pela equipe de atendimentos da SPC Brasil.  
 # Ferramenta de suporte
-* A ferramenta será usada pelo Assistente de Atendimento da SPC para fazer a verificação da viabilidade de inclusão no auxílio e realizar o cadastro do consumidor no Auxílio Emergencial Positivo.
+A ferramenta será usada pelo Assistente de Atendimento da SPC para fazer a verificação da viabilidade de inclusão no auxílio e realizar o cadastro do consumidor no Auxílio Emergencial Positivo.
 #### Entregáveis 
-* Interface contendo a tela inicial da ferramenta 
 * Interface que apresente o que é o Auxílio Emergencial Positivo.
+* Interface contendo a tela inicial da ferramenta 
 * Interface que mostre a opção de consultar o CPF do consumidor 
 * Interface que mostre o histórico de pagamentos do consumidor 
 * Interface que apresente a opção de inclusão no Auxílio Emergencial Positivo contendo: Opções de situações emergenciais e campo de inclusão da documentação comprobatória. 
@@ -55,8 +55,10 @@ Pandemia: Em uma pandemia, após a publicação do decreto estadual ou federal, 
 
 ## Tecnologias 
 * [Python](https://github.com/topics/python)
-* 
-* •	Python-Shell
+* Tkinter 
+* Python-Shell
+* [HTML](https://github.com/topics/html)
+
 
 
 
