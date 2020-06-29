@@ -11,7 +11,7 @@ e execute o arquivo AEP.exe.
 
 ### Benefícios 
 * Agilidade e segurança para a inlcusão do consumidor no Auxílio Emergencial Positivo.
-* O Assitente de atendimento poderá realizar testes com a ferramenta até a implantação do projeto.
+* O Assistente de atendimento poderá realizar testes com a ferramenta até a implantação do projeto.
 * Adaptação das planilhas de dados ao formato da ferramenta desenvolvida.
 * Interface com estética e design minimalista
 * Uma documentação de auxílio ao usuário do sistema. 
