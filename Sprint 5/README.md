@@ -24,7 +24,7 @@ e execute o arquivo AEP.exe.
 # Apresentação dos Códigos Desenvolvidos testados e aprovados
 
 * Desenvolvemos 5 dataframes com as tabelas PGT_NOVA.xlsx, OPR_NOVA.xlsx, MVT_NOVA.xlsx, PF_NOVA.xlsx, Endereço PF_NOVA.xlsx.
-* Desenevolvemos um dataframe para a Tabela Única, com as colunas principais das outras 5 tabelas.
+* Desenvolvemos um dataframe para a Tabela Única, com as colunas principais das outras 5 tabelas.
 * Para adicionar todos os dados no dataframe da Tabela Única, iniciamos por um laço na tabela PGT, adicionando os dados dessa tabela nas respectivas colunas, e com o 
 id_opr_cad_pos, relacionamos os dados da tabela OPR, com o cpf da tabela OPR, relacionamos os dados da tabela pessoa física com o id e, por fim, relacionamos com os dados da tabela de endereço 
 de pessoa físicas e adicionamos todos os dados de cada clienta no dataframe da Tabela Única.
