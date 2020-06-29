@@ -7,7 +7,7 @@
 
 # ____________________________________________________________
 ## Produto Desenvolvido
-Desenvolvimento de um aplicativo desktop para os Assitentes de Atendimento verificarem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
+Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento verificarem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
 # ____________________________________________________________
 ## Benefícios 
 * Segurança para o consumidor optar pela permanência no Cadastro Positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
