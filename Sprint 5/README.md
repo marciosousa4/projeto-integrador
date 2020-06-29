@@ -2,10 +2,16 @@
 
 # MVP
 
+### Apresentamos a ferramenta que será utilizada pelo Assistente de Atendimento da SPC Brasil para dar suporte a solicitação do consumidor.
+Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento verificarem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
+### Instruções de uso
+* Não é preciso fazer instalações, baixe os arquivos do repositório pelo [Link de Execução](https://drive.google.com/drive/folders/15MyXBWSNzSivNCF3UrefY9Zy2nXDP2bN?usp=sharing), 
+e execute o arquivo AEP.exe.
+* Para verificação dos códigos desenvolvidos na interface gráfica, acessar o Link [códigos interface](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/Codigo_Interface_AEP.py)
 
 ### Benefícios 
 * Agilidade e segurança para a inlcusão do consumidor no Auxílio Emergencial Positivo.
-* O Assistente de atendimento poderá realizar testes com a ferramenta até a implantação do projeto.
+* O Assitente de atendimento poderá realizar testes com a ferramenta até a implantação do projeto.
 * Adaptação das planilhas de dados ao formato da ferramenta desenvolvida.
 * Interface com estética e design minimalista
 * Uma documentação de auxílio ao usuário do sistema. 
