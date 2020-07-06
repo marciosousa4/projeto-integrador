@@ -5,10 +5,10 @@
 ## O que é o Auxílio Emergencial Positivo?
 É um serviço de proteção ao score positivo do consumidor, que a SPC Brasil oferece para quem é optante pelo cadastro positivo e que está adimplente com as suas contas.
 
-# ____________________________________________________________
+# ________________________________________________________
 ## Produto Desenvolvido
 Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento verificarem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
-# ____________________________________________________________
+# ________________________________________________________
 ## Benefícios 
 * Segurança para o consumidor optar pela permanência no Cadastro Positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
 * Melhorar  o relacionamento e integração da SPC Brasil com os consumidores, mantendo assim  seu pontecial competitivo no mercado.
@@ -31,12 +31,12 @@ O programa Auxílio Emergencial Positivo nasceu do compromisso que a SPC Brasil 
 ## Como Funciona?
 
 <p>O consumidor entrará em contato com a SPC Brasil pelos canais de contato disponíveis no site e informará a necessidade do auxílio emergencial e, junto com a solicitação, algum documento que comprove a real necessidade do auxílio.</p>
-<p>Será concedido (1) um auxílio a cada 12 (doze) meses.</p>
+<p>Será concedido um (1) auxílio a cada 12 (doze) meses.</p>
 <p>O Score do cliente será congelado por 2 meses (60 dias) e os pagamentos desse período não influencirão no cálculo da pontuação.</p>
 <p>O consumidor poderá solicitar o auxílio uma vez a cada 12 meses.</p>
 
 ## Situações Emergenciais
-Catástrofe Natural: Comprovante de residência (conta de luz, água, telefone, gás, extratos bancários, carnês de pagamentos, entre outros), emitido nos últimos 120 dias anteriores à decretação da emergência ou calamidade havida em decorrência do desastre natural 
+Catástrofe Natural: Comprovante de residência (conta de luz, água, telefone, gás, extratos bancários, carnês de pagamentos, entre outros), emitido nos últimos 120 dias anteriores ao decreto de emergência ou calamidade havida em decorrência do desastre natural 
 
 Doenças Graves:  Atestado médico contendo diagnóstico médico, claramente descritivo que, em face dos sintomas e do histórico patológico, caracterize doença grave, com o CID da doença que tenha acometido o consumidor e assinatura e carimbo com o nome/CRM do médico que assiste o paciente, indicando expressamente que o paciente se encontra em situação de doença grave.
 
