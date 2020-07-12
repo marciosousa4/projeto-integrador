@@ -19,12 +19,11 @@ Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento veri
 * [Como Funciona](#como-funciona)
 * [Situações Emergenciais](#situações-emergenciais)
 * [Ferramenta de suporte](#ferramenta-de-suporte)
-* [Fluxograma](#fluxograma)
 * [Demonstração da Ferramenta](#demonstração-da-ferramenta)
 * [Tecnologias](#tecnologias)
 * [Cronograma](#cronograma)
 * [Product Backlog](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog#product-backlog-com-novo-escopo#)
-* [Diagrama de Caso de Uso](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog#diagrama-de-caso-de-uso)
+* [Diagrama de Caso de Uso](diagrama-de-caso-de-uso)
 * [Lista de Requistos](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog#requisitos)
 
 ## Sobre o Auxílio Emergencial Positivo
@@ -56,9 +55,9 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem com
 * **Impessoalidade**: O processo de tomada de decisão está transformado em uma regra de negócio apresentada na ferramenta. 
 * **Segurança**: O processo de análise dos indicadores de pontualidade é feito pela ferramenta, diminuindo a probabilidade de erros para a concessão do benefício.
 
-# Fluxograma
+# Diagrama de Caso de Uso
 
-![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg?raw=true)
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Diagrama%20de%20caso%20de%20uso.jpeg?raw=true)
 
 # Demonstração da Ferramenta 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/RELACIONAMENTO%20sprint%205.gif?raw=true)
