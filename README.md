@@ -60,7 +60,7 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem com
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg?raw=true)
 ## Tecnologias 
 * [Python](https://github.com/topics/python)
-* Biblioteca de interface gráfica **Tkinter 
+* Biblioteca de interface gráfica **Tkinter** 
 * Outros recursos e bibliotecas foram utilizados para funções específicas (Pandas, Messagebox, Filedialog, Datetime, Xlrd).
 
 
