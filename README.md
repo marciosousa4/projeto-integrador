@@ -19,7 +19,8 @@ Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento veri
 * [Como Funciona](#como-funciona)
 * [Situações Emergenciais](#situações-emergenciais)
 * [Ferramenta de suporte](#ferramenta-de-suporte)
-* [Fluxograma](#Fluxograma)
+* [Fluxograma](#fluxograma)
+* [Demonstração da Ferramenta](#demonstração-da-ferramenta)
 * [Tecnologias](#tecnologias)
 * [Cronograma](#cronograma)
 * [Product Backlog](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog#product-backlog-com-novo-escopo#)
@@ -58,6 +59,10 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem com
 # Fluxograma
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg?raw=true)
+
+# Demonstração da Ferramenta 
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/RELACIONAMENTO%20sprint%205.gif?raw=true)
+
 ## Tecnologias 
 * [Python](https://github.com/topics/python)
 * Biblioteca de interface gráfica **Tkinter** 
