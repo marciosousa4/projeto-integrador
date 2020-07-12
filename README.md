@@ -19,6 +19,7 @@ Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento veri
 * [Como Funciona](#como-funciona)
 * [Situações Emergenciais](#situações-emergenciais)
 * [Ferramenta de suporte](#ferramenta-de-suporte)
+* [Fluxograma](#Fluxograma)
 * [Tecnologias](#tecnologias)
 * [Cronograma](#cronograma)
 * [Product Backlog](https://github.com/marciosousa4/projeto-integrador/tree/master/Product%20Backlog#product-backlog-com-novo-escopo#)
@@ -43,21 +44,25 @@ Doenças Graves:  Atestado médico contendo diagnóstico médico, claramente des
 Rescisão Sem Justa Causa: Carteira de identidade; Número do PIS/NIS; Carteira de Trabalho (CTPS); Termo de Rescisão do Contrato de Trabalho (TRCT); Sentença judicial, caso a rescisão tenha sido feita em juízo; Termo da audiência, quando resultar de acordo de conciliação trabalhista.
 
 Pandemia: Em uma pandemia, após a publicação do decreto estadual ou federal, decretando o estado emergencial, o consumidor pode apresentar documentos que comprovem a sua vulnerabilidade nesse período, desemprego, redução de salário, suspensão de contrato de trabalho, altas despesas médicas e outras situações que podem ser avaliadas pela equipe de atendimentos da SPC Brasil.  
+
 # Ferramenta de suporte
-A ferramenta será usada pelo Assistente de Atendimento da SPC para fazer a verificação da viabilidade de inclusão no auxílio e realizar o cadastro do consumidor no Auxílio Emergencial Positivo.
-#### Entregáveis 
-* Interface que apresente o que é o Auxílio Emergencial Positivo.
-* Interface contendo a tela inicial da ferramenta 
-* Interface que mostre a opção de consultar o CPF do consumidor 
-* Interface que mostre o histórico de pagamentos do consumidor 
-* Interface que apresente a opção de inclusão no Auxílio Emergencial Positivo contendo: Opções de situações emergenciais e campo de inclusão da documentação comprobatória. 
 
 
+A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem como indicadores de qualidade: confiabilidade, transparência, impessoalidade e segurança na hora de incluir o consumidor no Auxílio Emergencial. 
+
+* **Transparência**: O atendente pode apresentar os motivos reais de deferimento ou indeferimento aos consumidores. 
+* **Confiabilidade**: A ferramenta toma a decisão pelo atendente, de forma automatizada, a partir de um código desenvolvido para essa função.
+* **Impessoalidade**: O processo de tomada de decisão está transformado em uma regra de negócio apresentada na ferramenta. 
+* **Segurança**: O processo de análise dos indicadores de pontualidade é feito pela ferramenta, diminuindo a probabilidade de erros para a concessão do benefício.
+
+# Fluxograma
+
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg?raw=true)
 ## Tecnologias 
 * [Python](https://github.com/topics/python)
-* Tkinter 
-* Python-Shell
-* [HTML](https://github.com/topics/html)
+* Biblioteca de interface gráfica **Tkinter 
+* Outros recursos e bibliotecas foram utilizados para funções específicas (Pandas, Messagebox, Filedialog, Datetime, Xlrd).
+
 
 
 
