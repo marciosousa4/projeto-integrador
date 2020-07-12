@@ -13,5 +13,9 @@ além de lançar muitos questionamentos sobre a efetividade e sucesso do cadastr
 
 O crédito é um dos instrumentos que alavanca a economia do país e possibilitar uma análise mais justa e equilibrada com transparência, pode impulsionar a relação entre o consumidor e o cadastro positivo, aumentando assim, a confiança dos brasileiros.
 
+
+
+# Fluxograma
+
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg)
 
