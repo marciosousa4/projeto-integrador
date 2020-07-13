@@ -15,12 +15,16 @@ O crédito é um dos instrumentos que alavanca a economia do país e possibilita
 
 Pensando nessa realidade, nos desenvolvemos um projeto que refaz a confiança do consumidor no cadastro positivo e uma ferramenta de suporte ao Assistente de Atendimento que fará a inclusão do consumidor no projeto.
 
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Kanban%20Board%20Brainstorm.gif?raw=true)
+
+## Atualizações realizadas
+* A data de inclusão do CPF no Auxílio foi adicionada ao cadastro, a fim de permitir ao usuário facilmente identificar se o consumidor em questão já está cadastrado e há quanto tempo;
+* O Label de Status muda de cor de acordo com a situação do consumidor em questão (VERDE para APTO, VERMELHO para NÃO APTO e AZUL para INCLUSO), promovendo uma interface mais intuitiva.
+
+
 ## Demonstração da Ferramenta
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Programa%20executando.gif)
 
-## Atualizações Feitas
-* A data de inclusão do CPF no Auxílio foi adicionada ao cadastro, a fim de permitir ao usuário facilmente identificar se o consumidor em questão já está cadastrado e há quanto tempo;
-* O Label de Status muda de cor de acordo com a situação do consumidor em questão (VERDE para APTO, VERMELHO para NÃO APTO e AZUL para INCLUSO), promovendo uma interface mais intuitiva.
 
 ## Indicadores de Qualidade
 A ferramenta desenvolvida que será usada pelo Assistente de Atendimento trás confiabilidade, transparência, impessoalidade e segurança na hora de incluir o consumidor no Auxílio Emergencial. 
