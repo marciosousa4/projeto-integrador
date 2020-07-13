@@ -32,7 +32,6 @@ O programa Auxílio Emergencial Positivo nasceu do compromisso que a SPC Brasil 
 ## Como Funciona?
 
 <p>O consumidor entrará em contato com a SPC Brasil pelos canais de contato disponíveis no site e informará a necessidade do auxílio emergencial e, junto com a solicitação, algum documento que comprove a real necessidade do auxílio.</p>
-<p>Será concedido um (1) auxílio a cada 12 (doze) meses.</p>
 <p>O Score do cliente será congelado por 2 meses (60 dias) e os pagamentos desse período não influencirão no cálculo da pontuação.</p>
 <p>O consumidor poderá solicitar o auxílio uma vez a cada 12 meses.</p>
 
