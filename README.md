@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/cc617094824263c006bc17b4a7ce2ac2313d3242/Projeto%20integrador%202020.jpg" width="500" height="300" /> <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/376d71b42da02278e03b7af2472d9488a8f6bcf2/Logo%20auxilio%20emergencial.jpg" width="300" height="180" />
 
 # AUXÍLIO EMERGENCIAL POSITIVO
+## Vídeo de Apresentação do Projeto
+
+## [Apresentação Final](https://youtu.be/XLQpUB7Lz0M)<img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/1187733de59909b469e1f261c4219da7e665232e/download%20you%20tube.png" width="50" height="50" /> 
 
 ## O que é o Auxílio Emergencial Positivo?
 É um serviço de proteção ao score positivo do consumidor, que a SPC Brasil oferece para quem é optante pelo cadastro positivo e que está adimplente com as suas contas.
@@ -12,9 +15,9 @@ Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento veri
 ## Benefícios 
 * Segurança para o consumidor optar pela permanência no Cadastro Positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
 * Melhorar  o relacionamento e integração da SPC Brasil com os consumidores, mantendo assim  seu pontecial competitivo no mercado.
-* Construção de uma base confiável entre a SPC Brasil e o consumidor
+* Construção de uma base confiável entre a SPC Brasil e o consumidor.
 * Responsablidade Social que imprime o caráter de liderança da empresa já que gera valor, não unicamente a ela, mas também à sociedade e ao entorno em que ela opera, reunindo valores intangíveis.
-# Indíce
+# Índice
 * [Sobre o Auxílio Emergencial Positivo](#sobre-o-auxílio-emergencial-positivo)
 * [Como Funciona](#como-funciona)
 * [Situações Emergenciais](#situações-emergenciais)
@@ -32,11 +35,11 @@ O programa Auxílio Emergencial Positivo nasceu do compromisso que a SPC Brasil 
 ## Como Funciona?
 
 <p>O consumidor entrará em contato com a SPC Brasil pelos canais de contato disponíveis no site e informará a necessidade do auxílio emergencial e, junto com a solicitação, algum documento que comprove a real necessidade do auxílio.</p>
-<p>O Score do cliente será congelado por 2 meses (60 dias) e os pagamentos desse período não influencirão no cálculo da pontuação.</p>
+<p>O Score do cliente será congelado por 2 meses (60 dias) e os pagamentos desse período não influenciarão no cálculo da pontuação.</p>
 <p>O consumidor poderá solicitar o auxílio uma vez a cada 12 meses.</p>
 
 ## Situações Emergenciais
-Catástrofe Natural: Comprovante de residência (conta de luz, água, telefone, gás, extratos bancários, carnês de pagamentos, entre outros), emitido nos últimos 120 dias anteriores ao decreto de emergência ou calamidade havida em decorrência do desastre natural 
+Catástrofe Natural: Comprovante de residência (conta de luz, água, telefone, gás, extratos bancários, carnês de pagamentos, entre outros), emitido nos últimos 120 dias anteriores ao decreto de emergência ou calamidade havida em decorrência do desastre natural. 
 
 Doenças Graves:  Atestado médico contendo diagnóstico médico, claramente descritivo que, em face dos sintomas e do histórico patológico, caracterize doença grave, com o CID da doença que tenha acometido o consumidor e assinatura e carimbo com o nome/CRM do médico que assiste o paciente, indicando expressamente que o paciente se encontra em situação de doença grave.
 
