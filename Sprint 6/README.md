@@ -13,7 +13,7 @@ além de lançar muitos questionamentos sobre a efetividade e sucesso do cadastr
 
 O crédito é um dos instrumentos que alavanca a economia do país e possibilitar uma análise mais justa e equilibrada com transparência, pode impulsionar a relação entre o consumidor e o cadastro positivo, aumentando assim, a confiança dos brasileiros.
 
-Pensando nessa realidade, nos desenvolvemos um projeto que refaz a confiança do consumidor no cadastro positivo e uma ferramenta de suporte ao Assistente de Atendimento que fará a inclusão do consumidor no projeto.
+Pensando nessa realidade, desenvolvemos um projeto que refaz a confiança do consumidor no cadastro positivo e uma ferramenta de suporte ao Assistente de Atendimento que fará a inclusão do consumidor no projeto.
 
 # Requisitos Sprint 6
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Kanban%20Board%20Brainstorm.gif?raw=true)
