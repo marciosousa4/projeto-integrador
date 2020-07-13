@@ -8,10 +8,10 @@
 ## O que é o Auxílio Emergencial Positivo?
 É um serviço de proteção ao score positivo do consumidor, que a SPC Brasil oferece para quem é optante pelo cadastro positivo e que está adimplente com as suas contas.
 
-# ________________________________________________________
+
 ## Produto Desenvolvido
 Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento verificarem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
-# ________________________________________________________
+
 ## Benefícios 
 * Segurança para o consumidor optar pela permanência no Cadastro Positivo, pois não haverá risco de um problema esporádico e temporário comprometer o seu score.
 * Melhorar  o relacionamento e integração da SPC Brasil com os consumidores, mantendo assim  seu pontecial competitivo no mercado.
@@ -39,13 +39,13 @@ O programa Auxílio Emergencial Positivo nasceu do compromisso que a SPC Brasil 
 <p>O consumidor poderá solicitar o auxílio uma vez a cada 12 meses.</p>
 
 ## Situações Emergenciais
-Catástrofe Natural: Comprovante de residência (conta de luz, água, telefone, gás, extratos bancários, carnês de pagamentos, entre outros), emitido nos últimos 120 dias anteriores ao decreto de emergência ou calamidade havida em decorrência do desastre natural. 
+**Catástrofe Natural:** Comprovante de residência (conta de luz, água, telefone, gás, extratos bancários, carnês de pagamentos, entre outros), emitido nos últimos 120 dias anteriores ao decreto de emergência ou calamidade havida em decorrência do desastre natural. 
 
-Doenças Graves:  Atestado médico contendo diagnóstico médico, claramente descritivo que, em face dos sintomas e do histórico patológico, caracterize doença grave, com o CID da doença que tenha acometido o consumidor e assinatura e carimbo com o nome/CRM do médico que assiste o paciente, indicando expressamente que o paciente se encontra em situação de doença grave.
+**Doenças Graves:**  Atestado médico contendo diagnóstico médico, claramente descritivo que, em face dos sintomas e do histórico patológico, caracterize doença grave, com o CID da doença que tenha acometido o consumidor e assinatura e carimbo com o nome/CRM do médico que assiste o paciente, indicando expressamente que o paciente se encontra em situação de doença grave.
 
-Rescisão Sem Justa Causa: Carteira de identidade; Número do PIS/NIS; Carteira de Trabalho (CTPS); Termo de Rescisão do Contrato de Trabalho (TRCT); Sentença judicial, caso a rescisão tenha sido feita em juízo; Termo da audiência, quando resultar de acordo de conciliação trabalhista.
+**Rescisão Sem Justa Causa:** Carteira de identidade; Número do PIS/NIS; Carteira de Trabalho (CTPS); Termo de Rescisão do Contrato de Trabalho (TRCT); Sentença judicial, caso a rescisão tenha sido feita em juízo; Termo da audiência, quando resultar de acordo de conciliação trabalhista.
 
-Pandemia: Em uma pandemia, após a publicação do decreto estadual ou federal, decretando o estado emergencial, o consumidor pode apresentar documentos que comprovem a sua vulnerabilidade nesse período, desemprego, redução de salário, suspensão de contrato de trabalho, altas despesas médicas e outras situações que podem ser avaliadas pela equipe de atendimentos da SPC Brasil.  
+**Pandemia:** Em uma pandemia, após a publicação do decreto estadual ou federal, decretando o estado emergencial, o consumidor pode apresentar documentos que comprovem a sua vulnerabilidade nesse período, desemprego, redução de salário, suspensão de contrato de trabalho, altas despesas médicas e outras situações que podem ser avaliadas pela equipe de atendimentos da SPC Brasil.  
 
 # Ferramenta de suporte
 
