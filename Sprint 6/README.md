@@ -37,3 +37,11 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento trás c
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg)
 
+# Instruções e Link para Download
+Nossa aplicação está disponível somente para Windows.Não é necessário nenhum recurso para executar a aplicação. Basta seguir os seguintes passos:
+
+* Fazer o download da pasta que contém o arquivo.exe, o ícone, o arquivo.xlsx e a pasta de imagens;
+* Descompactar a pasta compactada “Auxílio Emergencial Positivo.rar”;
+* Entrar na pasta “Auxílio Emergencial Positivo” e clicar duas vezes no arquivo “AEP.exe”.
+* Link para Download
+
