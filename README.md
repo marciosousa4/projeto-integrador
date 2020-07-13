@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/cc617094824263c006bc17b4a7ce2ac2313d3242/Projeto%20integrador%202020.jpg" width="500" height="300" /> <img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/376d71b42da02278e03b7af2472d9488a8f6bcf2/Logo%20auxilio%20emergencial.jpg" width="300" height="180" />
 
 # AUXÍLIO EMERGENCIAL POSITIVO
-## Vídeo de Apresentação do Projeto
 
+## Vídeo de Apresentação do Projeto
 ## [Apresentação Final](https://youtu.be/XLQpUB7Lz0M)<img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/1187733de59909b469e1f261c4219da7e665232e/download%20you%20tube.png" width="50" height="50" /> 
 
 ## O que é o Auxílio Emergencial Positivo?
 É um serviço de proteção ao score positivo do consumidor, que a SPC Brasil oferece para quem é optante pelo cadastro positivo e que está adimplente com as suas contas.
-
 
 ## Produto Desenvolvido
 Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento verificarem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
@@ -17,7 +16,8 @@ Desenvolvimento de um aplicativo desktop para os Assistentes de Atendimento veri
 * Melhorar  o relacionamento e integração da SPC Brasil com os consumidores, mantendo assim  seu pontecial competitivo no mercado.
 * Construção de uma base confiável entre a SPC Brasil e o consumidor.
 * Responsablidade Social que imprime o caráter de liderança da empresa já que gera valor, não unicamente a ela, mas também à sociedade e ao entorno em que ela opera, reunindo valores intangíveis.
-# Índice
+
+## Índice
 * [Sobre o Auxílio Emergencial Positivo](#sobre-o-auxílio-emergencial-positivo)
 * [Como Funciona](#como-funciona)
 * [Situações Emergenciais](#situações-emergenciais)
@@ -49,7 +49,6 @@ O programa Auxílio Emergencial Positivo nasceu do compromisso que a SPC Brasil 
 
 # Ferramenta de suporte
 
-
 A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem como indicadores de qualidade: confiabilidade, transparência, impessoalidade e segurança na hora de incluir o consumidor no Auxílio Emergencial. 
 
 * **Transparência**: O atendente pode apresentar os motivos reais de deferimento ou indeferimento aos consumidores. 
@@ -71,10 +70,6 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem com
 * [Python](https://github.com/topics/python)
 * Biblioteca de interface gráfica **Tkinter** 
 * Outros recursos e bibliotecas foram utilizados para funções específicas (Pandas, Messagebox, Filedialog, Datetime, Xlrd).
-
-
-
-
 
 # Cronograma 
 
