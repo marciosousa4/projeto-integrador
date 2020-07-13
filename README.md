@@ -61,7 +61,7 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento tem com
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Diagrama%20de%20caso%20de%20uso.jpeg?raw=true)
 
-<img src="https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Kanban%20Board%20Brainstorm.png?raw=true" width="960" height="540" />
+<img src="https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Kanban%20Board%20Brainstorm.png?raw=true" />
 
 
 # Demonstração da Ferramenta 
