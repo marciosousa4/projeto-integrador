@@ -4,7 +4,7 @@
 
 
 # Product Backlog - Novo Escopo
-Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/06/2020, fizemos algumas mudanças no projeto para adaptar a necessidade do cliente. Foi pedido para o time que apresentasse um produto com valor para o negócio, e também, que o escopo do projeto estive claro com referência ao que vamos entregar. Diante dessas solicitações, apresentamos o novo escopo, com as alterações e adaptações feitas pelo time.
+Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/06/2020, fizemos algumas mudanças no projeto para adaptar à necessidade do cliente. Foi pedido para o time que apresentasse um produto com valor para o negócio, e também, que o escopo do projeto estivesse claro com referência ao que vamos entregar. Diante dessas solicitações, apresentamos o novo escopo, com as alterações e adaptações feitas pelo time.
 
 # Dados fundamentais para o funcionamento da aplicação.
 1.  Dados de transações financeiras dos consumidores fornecidos pelas empresas credoras que constem os seguintes dados:
@@ -16,12 +16,12 @@ Após a reunião de validação das entregas com o cliente SPC Brasil no dia 04/
 3. Canal de interação entre consumidor e SPC (web, tele-atendiemento ou Posto de Atendimento) 
  
  # Ações
-- O consumidor faz a solicitação para a SPC solicitando a inclusão no Auxílio emergencial positivo.
+- O consumidor entra em contato com a SPC solicitando a inclusão no Auxílio emergencial positivo.
 - O assistente de atendimento recebe a solicitação e faz a verificação do histórico de pagamentos desse consumidor. 
-- Se aprovado, o assistente de atendimento verifica se o consumidor enviou e documentação que comprovam a necessidade da inclusão no auxílio. 
-- Se reprovado, o assistente de atendimento responde para o consumidor, informado que não foi aprovada a solicitação. 
+- Se aprovado, o assistente de atendimento verifica se o consumidor enviou e documentação que comprove a necessidade da inclusão no auxílio. 
+- Se reprovado, o assistente de atendimento responde para o consumidor, informado que não foi aprovada a solicitação e o motivo. 
 - Se o consumidor foi aprovado e enviou a documentação, o Assistente de Atendimento faz a inclusão da documentação no cadastro do consumidor, marca a opção que gerou a necessidade e o Score do consumidor fica congelado por 60 dias.
-- Se ele foi aprovado e não enviou a documentação o Assistente de Atendimento faz a solicitação para o consumidor.
+- Se ele foi aprovado e não enviou a documentação, o Assistente de Atendimento faz a solicitação para o consumidor.
 
 # Diagrama de caso de uso
 ![](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/3bafc8f59cce9b46f4e6173ae71330dc82df095e/diagrama%20de%20caso%20de%20uso.jpg)
