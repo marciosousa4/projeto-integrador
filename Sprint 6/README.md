@@ -28,10 +28,13 @@ Pensando nessa realidade, desenvolvemos um projeto que refaz a confiança do con
 
 
 ## Indicadores de Qualidade
+
 A ferramenta desenvolvida que será usada pelo Assistente de Atendimento trás confiabilidade, transparência, impessoalidade e segurança na hora de incluir o consumidor no Auxílio Emergencial. 
-* *Transparência*: O atendente pode apresentar os motivos reais de deferimento ou indeferimento aos consumidores. 
-* *Confiabilidade*: A ferramenta toma a decisão pelo atendente, de forma automatizada, a partir de um código desenvolvido para essa função.
-* *Impessoalidade*: O processo de tomada de decisão está transformado em uma regra de negócio apresentada na ferramenta.
+
+* **Transparência**: O atendente pode apresentar os motivos reais de deferimento ou indeferimento aos consumidores. 
+* **Confiabilidade**: A ferramenta toma a decisão pelo atendente, de forma automatizada, a partir de um código desenvolvido para essa função.
+* **Impessoalidade**: O processo de tomada de decisão está transformado em uma regra de negócio apresentada na ferramenta. 
+* **Segurança**: O processo de análise dos indicadores de pontualidade é feito pela ferramenta, diminuindo a probabilidade de erros para a concessão do benefício.
 
 ## Fluxograma
 
