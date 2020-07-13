@@ -6,7 +6,7 @@
 
 
 
-## Por que permanecer no Cadastro Positivo?
+# Por que permanecer no Cadastro Positivo?
 Uma das informações que compõe o cadastro positivo é o índice de pontualidade de pagamento, o consumidor deve ficar atento aos pagamentos 
 de boleto para não ter a nota de crédito influenciada por essa variável. E isso é sempre uma questão muito sensível e tem gerado muitos pedidos de cancelamento do cadastro, 
 além de lançar muitos questionamentos sobre a efetividade e sucesso do cadastro no Brasil. 
@@ -33,15 +33,15 @@ A ferramenta desenvolvida que será usada pelo Assistente de Atendimento trás c
 * *Confiabilidade*: A ferramenta toma a decisão pelo atendente, de forma automatizada, a partir de um código desenvolvido para essa função.
 * *Impessoalidade*: O processo de tomada de decisão está transformado em uma regra de negócio apresentada na ferramenta.
 
-# Fluxograma
+## Fluxograma
 
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%205/WhatsApp%20Image%202020-07-09%20at%2009.46.07.jpeg)
 
 # Instruções e Link para Download
-Nossa aplicação está disponível somente para Windows.Não é necessário nenhum recurso para executar a aplicação. Basta seguir os seguintes passos:
+Nossa aplicação está disponível somente para Windows. Não é necessário nenhum recurso para executar a aplicação. Basta seguir os seguintes passos:
 
 * Fazer o download da pasta que contém o arquivo.exe, o ícone, o arquivo.xlsx e a pasta de imagens;
-* Descompactar a pasta compactada “Auxílio Emergencial Positivo.rar”;
+* Descompactar a pasta “Auxílio Emergencial Positivo.rar”;
 * Entrar na pasta “Auxílio Emergencial Positivo” e clicar duas vezes no arquivo “AEP.exe”.
 * [Link para Download](https://drive.google.com/drive/folders/10rHBIaMvVqxOTZFNcNcWat8jHWIgNN22?usp=sharing)
 
