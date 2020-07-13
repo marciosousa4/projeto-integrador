@@ -18,6 +18,10 @@ Pensando nessa realidade, nos desenvolvemos um projeto que refaz a confiança do
 ## Demonstração da Ferramenta
 ![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Programa%20executando.gif)
 
+## Atualizações Feitas
+* A data de inclusão do CPF no Auxílio foi adicionada ao cadastro, a fim de permitir ao usuário facilmente identificar se o consumidor em questão já está cadastrado e há quanto tempo;
+* O Label de Status muda de cor de acordo com a situação do consumidor em questão (VERDE para APTO, VERMELHO para NÃO APTO e AZUL para INCLUSO), promovendo uma interface mais intuitiva.
+
 ## Indicadores de Qualidade
 A ferramenta desenvolvida que será usada pelo Assistente de Atendimento trás confiabilidade, transparência, impessoalidade e segurança na hora de incluir o consumidor no Auxílio Emergencial. 
 * *Transparência*: O atendente pode apresentar os motivos reais de deferimento ou indeferimento aos consumidores. 
