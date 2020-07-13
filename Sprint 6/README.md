@@ -16,7 +16,7 @@ O crédito é um dos instrumentos que alavanca a economia do país e possibilita
 Pensando nessa realidade, nos desenvolvemos um projeto que refaz a confiança do consumidor no cadastro positivo e uma ferramenta de suporte ao Assistente de Atendimento que fará a inclusão do consumidor no projeto.
 
 ## Demonstração da Ferramenta
-![]()
+![](https://github.com/marciosousa4/projeto-integrador/blob/master/Sprint%206/Programa%20executando.gif)
 
 ## Indicadores de Qualidade
 A ferramenta desenvolvida que será usada pelo Assistente de Atendimento trás confiabilidade, transparência, impessoalidade e segurança na hora de incluir o consumidor no Auxílio Emergencial. 
