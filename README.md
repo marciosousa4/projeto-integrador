@@ -3,7 +3,7 @@
 # AUXÍLIO EMERGENCIAL POSITIVO
 
 ## Vídeo de Apresentação do Projeto
-## [Apresentação Final](https://youtu.be/XLQpUB7Lz0M)<img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/1187733de59909b469e1f261c4219da7e665232e/download%20you%20tube.png" width="50" height="50" /> 
+## [Apresentação do Projeto](https://youtu.be/XLQpUB7Lz0M)<img src="https://raw.githubusercontent.com/marciosousa4/projeto-integrador/1187733de59909b469e1f261c4219da7e665232e/download%20you%20tube.png" width="50" height="50" /> 
 
 ## O que é o Auxílio Emergencial Positivo?
 É um serviço de proteção ao score positivo do consumidor, que a SPC Brasil oferece para quem é optante pelo cadastro positivo e que está adimplente com as suas contas.
